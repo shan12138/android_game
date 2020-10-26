@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GameAttack</string>
+    <string name="attackSum">总体攻击力为%1$d</string>
+</resources>

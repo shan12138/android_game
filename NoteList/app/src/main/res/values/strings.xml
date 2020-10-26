@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">记事本</string>
+    <string name="add_note">添加新事项</string>
+    <string name="input_task">请输入任务描述</string>
+    <string name="commit">提交</string>
+</resources>

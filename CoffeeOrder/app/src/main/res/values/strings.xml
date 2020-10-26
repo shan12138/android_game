@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Coffee Order</string>
+    <string name="cofferTV">Coffee</string>
+    <string name="chocolate">巧克力</string>
+    <string name="iceCream">冰激凌</string>
+    <string name="cookie">曲奇饼</string>
+    <string name="price">咖啡%1s元一杯，甜品%2s元1份</string>
+</resources>

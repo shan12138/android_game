@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">猜数字</string>
+    <string name="easy_text">已随机生成0-50中的数字，请竞猜</string>
+    <string name="difficult_text">已随机生成0-100中的数字，请竞猜</string>
+    <string name="easy_pattern">简单模式</string>
+    <string name="difficult_pattern">困难模式</string>
+    <string name="guess">竞猜</string>
+</resources>

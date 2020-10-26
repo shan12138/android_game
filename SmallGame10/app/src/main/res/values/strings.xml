@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SmallGame1.0</string>
+    <string name="score">您的分数：%1s</string>
+    <string name="time">剩余时间：%1s</string>
+</resources>
